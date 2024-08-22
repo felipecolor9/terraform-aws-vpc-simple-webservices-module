@@ -1,0 +1,8 @@
+vpc_name = ""
+region_number = ""
+az_number = ""
+cidr_block = ""
+rt_cidr_block = ""
+private_subnets_cidr_blocks = ""
+public_subnets_cidr_blocks = ""
+tag_owner = ""
