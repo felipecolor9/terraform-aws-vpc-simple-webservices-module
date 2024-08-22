@@ -1,6 +1,6 @@
 # Terraform AWS VPC Infrastructure
 
-#### EN-US 🇬🇧
+# EN-US 🇬🇧
 
 This project uses Terraform to create a Virtual Private Cloud (VPC) infrastructure in AWS, including VPC, subnets, route tables, internet gateway, NAT gateways, and security groups. A complete ecosystem to secure and manage public and private resources in the cloud.
 
@@ -93,7 +93,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 
-#### PT-BR 🇧🇷
+# PT-BR 🇧🇷
 
 Este projeto utiliza Terraform para criar uma infraestrutura de Virtual Private Cloud (VPC) na AWS, incluindo VPC, sub-redes, tabelas de rotas, internet gateway, NAT gateways e grupos de segurança. Um ecossistema completo para proteger e gerenciar recursos públicos e privados na nuvem.
 
