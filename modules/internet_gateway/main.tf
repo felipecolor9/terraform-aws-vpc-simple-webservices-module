@@ -4,5 +4,6 @@ resource "aws_internet_gateway" "igtw" {
 
   tags = {
     Name = local.internet_gtw_name
+
   }
 }
